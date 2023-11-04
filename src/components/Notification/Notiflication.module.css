@@ -1,0 +1,12 @@
+.subtitle {
+  margin: 0;
+  background-color: rgba(255, 0, 0, 0.178);
+  padding: 15px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(83, 0, 0);
+  text-align: center;
+  line-height: 20px;
+}

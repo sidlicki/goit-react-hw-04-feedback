@@ -1,0 +1,38 @@
+.list {
+  margin: 0;
+  width: 100%;
+  max-width: 300px;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 30px 40px;
+  border-radius: 30px;
+  background-color: rgba(0, 255, 255, 0.178);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  line-height: 20px;
+}
+.item {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(81, 0, 0);
+}
+
+.negativeSpan {
+  padding: 5px;
+  border-radius: 10px;
+  background-color: rgba(216, 166, 73, 0.616);
+}
+.neutralSpan {
+  padding: 5px;
+  border-radius: 10px;
+  background-color: rgba(73, 111, 216, 0.616);
+}
+
+.positiveSpan {
+  padding: 5px;
+  border-radius: 10px;
+
+  background-color: rgba(125, 216, 73, 0.616);
+}
